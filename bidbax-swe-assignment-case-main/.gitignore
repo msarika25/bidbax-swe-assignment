@@ -1,0 +1,115 @@
+######################
+# Mac OSX
+######################
+.DS_Store
+.svn
+
+######################
+# Windows
+######################
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Thumbnails
+._*
+
+######################
+# Project Specific
+######################
+/target/classes/static/**
+/src/test/javascript/coverage/
+
+######################
+# Maven
+######################
+log/
+target/
+
+######################
+# Maven Wrapper
+######################
+!.mvn/wrapper/maven-wrapper.jar
+
+######################
+# Package Files
+######################
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Visual Studio Code
+######################
+.vscode/
+
+######################
+# Intellij
+######################
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+classes/
+out/
+
+######################
+# Eclipse
+######################
+*.pydevproject
+.project
+.metadata
+tmp/
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+.factorypath
+**/src/main/resources/rebel.xml
+
+# STS-specific
+.apt_generated
+/.sts4-cache/*
+.settings
+.springBeans
+.sts4-cache
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# External tool builders
+.externalToolBuilders/**
+
+######################
+# Logs
+######################
+*.log*
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+######################
+# Directories
+######################
+**/bin/
+
+######################
+# Other Files
+######################
+*.class
+*.*~
+*~
+.merge_file*

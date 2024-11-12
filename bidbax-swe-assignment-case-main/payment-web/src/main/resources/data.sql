@@ -1,0 +1,5 @@
+insert into balance (cardnumber, amount) values ('001',100)
+insert into balance (cardnumber, amount) values ('002',200)
+insert into balance (cardnumber, amount) values ('003',300)
+insert into balance (cardnumber, amount) values ('004',400)
+insert into balance (cardnumber, amount) values ('005',500)
